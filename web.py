@@ -4,8 +4,8 @@ from datetime import datetime
 
 # 1. Define the logic you want to execute
 def print_hello():
-    print("Hello World!")
-    return "Hello World!"
+    print("Hello user!")
+    return "Hello user!"
 
 # 2. Define the DAG
 with DAG(
